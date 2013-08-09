@@ -1,0 +1,5 @@
+name: SSKeychain
+version: 1.2.0
+with-arc: true
+source-directory: SSKeychain
+
