@@ -1,5 +1,4 @@
-name: SSKeychain
+name: sskeychain
 version: 1.2.0
 with-arc: true
 source-directory: SSKeychain
-
